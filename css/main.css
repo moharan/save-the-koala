@@ -2,6 +2,20 @@
 wood brown: A89F68;
 army green: 41521F;
 */
-body {
-	background-color: gray;
+.navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a {
+	color: #fff;
+	text-shadow: 1px 2px #333;
+}
+#bienvenida {
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #fff;
 }
