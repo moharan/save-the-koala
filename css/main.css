@@ -50,6 +50,24 @@ army green: 41521F;
 .canhelp {
 	color: #A89F68;
 }
+/*Sección 06*/
+.wecanhelp {
+	background-color: #A89F68;
+}
+.signo {
+	color: #fff;
+	font-size: 1em;
+	/*prueba y error nose porque es 3*/
+	vertical-align: 3em;
+}
+.precio {
+	color: #fff;
+	font-size: 5em;
+}
+.moneda {
+	color: #fff;
+	font-size: 1em;
+}
 /*Footer*/
 footer {
 	background-color: #41521f;
