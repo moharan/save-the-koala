@@ -11,6 +11,7 @@ army green: 41521F;
 	color: #fff;
 	text-shadow: 1px 2px #333;
 }
+/*Sección 01*/
 .bienvenida {
 	background-image: url(../img/portada.jpg);
 	height: 100vh;
@@ -30,8 +31,19 @@ army green: 41521F;
 	background-color: #41521f;
 	color: #fff;
 }
+/*Sección 03*/
 .easyhelp {
 	background-color: #A89F68;
 	color: #fff;
+}
+/*Sección 04*/
+.helpkoalas {
+	background-image: url(../img/all.jpg);
+	height: 600px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: #fff;
+	text-shadow: 1px 2px #333;
 }
 
