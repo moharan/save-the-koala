@@ -50,4 +50,16 @@ army green: 41521F;
 .canhelp {
 	color: #A89F68;
 }
+/*Footer*/
+footer {
+	background-color: #41521f;
+	color: #fff;
+}
+footer a {
+	display: block;
+	color: #A89F68;
+}
+footer span {
+	color: #A89F68;
+}
 
