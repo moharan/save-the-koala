@@ -31,10 +31,28 @@ army green: 41521F;
 	background-color: #41521f;
 	color: #fff;
 }
+/*Sección 02*/
+.information {
+	margin: 120px 0;
+}
+.titular {
+	color: #A89F68;
+}
+.titular02 {
+	color: #999;
+}
+.titular03 {
+	color: #41521f;
+}
+.titular04 {
+	font-weight: bolder;
+	padding-bottom: 2em;
+}
 /*Sección 03*/
 .easyhelp {
 	background-color: #A89F68;
 	color: #fff;
+	padding: 100px 0;
 }
 /*Sección 04*/
 .helpkoalas {
@@ -45,13 +63,19 @@ army green: 41521F;
 	background-position: center;
 	color: #fff;
 	text-shadow: 1px 2px #333;
+	padding: 50px 0;
 }
 /*Sección 05*/
 .canhelp {
+	padding: 75px 0;
+}
+.icono {
 	color: #A89F68;
+	padding-bottom: 0.5em;
 }
 /*Sección 06*/
 .wecanhelp {
+	padding: 75px 0;
 	background-color: #A89F68;
 }
 .signo {
@@ -70,6 +94,7 @@ army green: 41521F;
 }
 /*Footer*/
 footer {
+	padding: 75px 0;
 	background-color: #41521f;
 	color: #fff;
 }
@@ -77,7 +102,6 @@ footer a {
 	display: block;
 	color: #A89F68;
 }
-footer span {
-	color: #A89F68;
+.footer {
+	padding-top: 2.5em;
 }
-
